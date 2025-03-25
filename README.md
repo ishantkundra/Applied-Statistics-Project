@@ -88,12 +88,18 @@ Insights on how funding varies between operating vs closed startups, correlation
 📂 Repository Structure
 
 .
-├── Applied_Statistics_Project_Ishantkundra.ipynb  # Main project notebook
-├── AS_Problem Statement.pdf                       # Project brief
-├── DS - Part2 - Basketball.csv                    # Basketball team data
-├── DS - Part3 - CompanyX_EU.csv                   # Startup ecosystem data
-└── README.md                                      # Project description (you are here!)
-
+├── Problem Statement/
+│   └── AS_Problem Statement.pdf                 # Project brief and questions
+│
+├── code/
+│   └── Applied_Statistics_Project_Ishantkundra.ipynb  # Main project notebook
+│
+├── dataset/
+│   ├── DS - Part2 - Basketball.csv             # Basketball team data
+│   └── DS - Part3 - CompanyX_EU.csv            # Startup ecosystem data
+│
+├── .gitignore
+└── README.md                                   # Project description (you are here!)
 
 
 ⸻

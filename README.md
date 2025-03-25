@@ -87,6 +87,7 @@ Insights on how funding varies between operating vs closed startups, correlation
 
 📂 Repository Structure
 
+
 .
 ├── Problem Statement/
 │   └── AS_Problem Statement.pdf                 # Project brief and questions
@@ -100,7 +101,6 @@ Insights on how funding varies between operating vs closed startups, correlation
 │
 ├── .gitignore
 └── README.md                                   # Project description (you are here!)
-
 
 ⸻
 

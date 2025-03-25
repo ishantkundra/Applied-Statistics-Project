@@ -82,18 +82,18 @@ Insights on how funding varies between operating vs closed startups, correlation
 ## 📁 Repository Structure
 
 .
-├── Problem Statement/
+ ├── Problem Statement/
 │   └── AS_Problem Statement.pdf               # Project brief and questions
 │
-├── code/
+ ├── code/
 │   └── Applied_Statistics_Project_Ishantkundra.ipynb  # Main project notebook
 │
-├── dataset/
+ ├── dataset/
 │   ├── DS - Part2 - Basketball.csv           # Basketball team data
 │   └── DS - Part3 - CompanyX_EU.csv          # Startup ecosystem data
 │
-├── .gitignore
-└── README.md                                 # Project description (you are here!)
+ ├── .gitignore
+ └── README.md                                 # Project description (you are here!)
 
 ---
 
@@ -112,13 +112,3 @@ Insights on how funding varies between operating vs closed startups, correlation
 **Ishant Kundra**  
 📧 [ishantkundra9@gmail.com](mailto:ishantkundra9@gmail.com)  
 🎓 Master’s in Computer Science | AIML Track
-
-
-
-⸻
-
-✅ How to paste it in VS Code:
-	1.	Open README.md in your repo.
-	2.	Delete the old content.
-	3.	Press Shift + Option + Command + V (for plain text paste).
-	4.	Save and preview — it should now look perfect.
